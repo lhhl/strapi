@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 const Wrapper = styled.div`
   display: flex;
-  overflow-x: hidden;
+  min-width: 0;
 
   p,
   span {
