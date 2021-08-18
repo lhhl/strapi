@@ -3497,6 +3497,7 @@
     tslib "^2.0.0"
     upath "2.0.1"
 
+<<<<<<< HEAD
 "@strapi/icons@0.0.1-alpha.15":
   version "0.0.1-alpha.15"
   resolved "https://registry.yarnpkg.com/@strapi/icons/-/icons-0.0.1-alpha.15.tgz#32fc824b732b4a21d5282f84696d6207ac5cbea1"
@@ -3506,6 +3507,17 @@
   version "0.0.1-alpha.15"
   resolved "https://registry.yarnpkg.com/@strapi/parts/-/parts-0.0.1-alpha.15.tgz#250cc29be0fa4cc2b91c8c0be49e1c2070a25450"
   integrity sha512-VF4gp6xrowpnHBe3qJf0BHljZEXT8Y+oMk7XbW9HJ6w7Fxrm6SmmBfGb3LGFLxkzMj+5Log7FXD+ANER298r+A==
+=======
+"@strapi/icons@0.0.1-alpha.14":
+  version "0.0.1-alpha.14"
+  resolved "https://registry.yarnpkg.com/@strapi/icons/-/icons-0.0.1-alpha.14.tgz#746f7f00e444de4bf96dc9e3c88d393ca54edbf2"
+  integrity sha512-X/H7QfOpWH2VajtCqjqln2aeenFoLxlHMC4s7CAbpMMn4EzqC3rZcvxirg6x95N6UAXRAWUSSddhU301ayOSzA==
+
+"@strapi/parts@0.0.1-alpha.14":
+  version "0.0.1-alpha.14"
+  resolved "https://registry.yarnpkg.com/@strapi/parts/-/parts-0.0.1-alpha.14.tgz#db86b50acb3d5d320e30c79eecc998f3f01ba196"
+  integrity sha512-Iyxr7iV/sJhRY4Ilox3QRxNFWAjoin3DoL/7h+Y0zVRkK27Cy36G8T5HhIGsIT0LHlkcw9SKJw1V73c2TNrdVw==
+>>>>>>> 9bbebc43d (wip ds impl)
   dependencies:
     "@internationalized/number" "^3.0.2"
     compute-scroll-into-view "^1.0.17"
