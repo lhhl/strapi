@@ -98,6 +98,7 @@ const Login = ({ onSubmit, schema, children }) => {
                     handleChange({ target: { value: checked, name: 'rememberMe' } });
                   }}
                   value={values.rememberMe}
+                  aria-label="rememberMe"
                   name="rememberMe"
                 >
                   {formatMessage({ id: 'Auth.form.rememberMe.label' })}

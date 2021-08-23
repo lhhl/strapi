@@ -163,6 +163,7 @@ const Register = ({ fieldsToDisable, noSignin, onSubmit, modifiedData, schema })
                     }}
                     value={values.news}
                     name="news"
+                    aria-label="news"
                   >
                     {formatMessage(
                       { id: 'Auth.form.register.news.label' },
